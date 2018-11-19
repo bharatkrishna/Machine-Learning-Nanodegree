@@ -23,5 +23,5 @@ Certificate Confirmation: [https://confirm.udacity.com/DTJVLSZK](https://confirm
 ### Capstone Project
 Expedia Hotel Recommendations
 
-* [Notebook](Capstone-Project/Capstone Project.ipynb)
+* [Notebook](Capstone-Project/Capstone_Project.ipynb)
 * [Report](Capstone-Project/project_report.pdf)
